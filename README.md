@@ -1,4 +1,4 @@
-# <div style="text-align: justify;">**REMÉDIO SOLIDÁRIO – SOFTWARE DE GESTÃO DE REAPROVEITAMENTO DE REMÉDIOS PELA REDE PÚBLICA DE SAÚDE**</div>
+<h1 align="center"><b>REMÉDIO SOLIDÁRIO – SOFTWARE DE GESTÃO DE REAPROVEITAMENTO DE REMÉDIOS PELA REDE PÚBLICA DE SAÚDE</b></h1>
 
 <p align="center">
   <img src="https://github.com/KarenBoscolo/PIRemediosGeral/assets/149967716/89a5dc51-ac92-4dc1-a3c0-be602f63570d" alt="Remédio Solidário">
